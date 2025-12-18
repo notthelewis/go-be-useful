@@ -26,7 +26,7 @@ It's not exhaustive. If you're looking for an exhaustive list of libraries spann
 ## Net
 
 | Package Name      | Purpose                           | Package Link                                 |
-|:-----------------:|:----------------------------------|:--------------------------------------------:|
+|:-----------------:|:----------------------------------|:---------------------------------------------|
 | shmipc-go         | Shared memory IPC server          | https://github.com/cloudwego/shmipc-go       |
 | httprouter        | Extremely high perf http req mux  | https://github.com/julienschmidt/httprouter  |
 | gnet              | epoll+kqueue-based networking     | https://github.com/panjf2000/gnet            |
@@ -36,7 +36,7 @@ It's not exhaustive. If you're looking for an exhaustive list of libraries spann
 ## Data
 
 | Package Name     | Purpose                                           | Package Link                                  |
-|:----------------:|:--------------------------------------------------|:---------------------------------------------:|
+|:----------------:|:--------------------------------------------------|:----------------------------------------------|
 | go-json          | Shits all over encoding/json                      | https://github.com/goccy/go-json              |
 | flatbuf          | High-entropy format with zero encode/decode cost  | https://github.com/google/flatbuffers         | 
 | protobuf         | > JSON, < flatbuf, x-platform, easy to use        | https://github.com/protocolbuffers/protobuf   |
@@ -52,7 +52,7 @@ It's not exhaustive. If you're looking for an exhaustive list of libraries spann
 ## CLI 
 
 | Package Name      | Purpose                                      | Package Link                                |
-|:-----------------:|:---------------------------------------------|:-------------------------------------------:|
+|:-----------------:|:---------------------------------------------|:--------------------------------------------|
 | Cobra             | Simple, flexible CLI builder                 | https://github.com/doug-martin/goqu         |
 | Bubble Tea        | Rich TUI lib                                 | https://github.com/charmbracelet/bubbletea  |
 | Lip Gloss         | Style definitions for nice terminal layouts  | https://github.com/charmbracelet/lipgloss   |
@@ -60,7 +60,7 @@ It's not exhaustive. If you're looking for an exhaustive list of libraries spann
 ## Misc
 
 | Package Name | Purpose                                           | Package Link                                    |
-|:------------:|:--------------------------------------------------|:-----------------------------------------------:|
+|:------------:|:--------------------------------------------------|:------------------------------------------------|
 | dbus         | Nice lib for working with D-Bus  system           | https://github.com/godbus/dbus                  |
 | Viper        | Slick configuration management: JSON/YAML/TOML    | https://github.com/spf13/viper                  |
 | go-tg        | Telegram bot api lib                              | https://github.com/mr-linch/go-tg               |
