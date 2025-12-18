@@ -4,11 +4,11 @@ A collection of Go libraries and tools to make you go and be useful.
 
 ## Table Of Contents
 
-**[Net](#Net)**
-**[Data](#Data)**
-**[CLI](#CLI)**
-**[Misc](#Misc)**
-**[Tools](#Tools)**
+**[Net](#Net)** </br>
+**[Data](#Data)** </br>
+**[CLI](#CLI)** </br>
+**[Misc](#Misc)** </br>
+**[Tools](#Tools)** </br>
 
 ## Disclaimer
 
