@@ -69,7 +69,7 @@ It's not exhaustive. If you're looking for an exhaustive list of libraries spann
 | gosseract    | OCR library                                       | https://github.com/otiai10/gosseract            |
 | ants         | Goroutine pooling                                 | https://github.com/panjf2000/ants               |
 | errgroup     | Waitgroup + error handling                        | https://pkg.go.dev/golang.org/x/sync/errgroup   |
-| argon2       | Should be default for storing pw                  | golang.org/x/crypto/argon2                      |
+| argon2       | Should be default for storing pw                  | https://pkg.go.dev/golang.org/x/crypto/argon2   |
 
 ## Tools 
 
